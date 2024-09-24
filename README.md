@@ -1,25 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
 ## Initially designed color palete:
 
 Background Color: #020617 (dark navy blue) slate-950
@@ -40,6 +18,6 @@ Code Syntax Highlighting Colors:
 
 NOTE: think about the selected text i am not 100 happy with it
 
-# Adding next mdx following this post (is a bit outdated but it seems to work):
+# Adding next mdx following this post (is outdated but it seems to work):
 
 https://colinhemphill.com/blog/markdown-syntax-highlighting-with-the-nextjs-app-router
